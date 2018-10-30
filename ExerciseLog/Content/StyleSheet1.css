@@ -1,0 +1,14 @@
+﻿body {
+    /*text-align:center;*/
+}
+
+.jumbotron{
+    width: 75%;
+    margin:auto;
+}
+
+.row{
+    width: 75%;
+    margin: 2em, 2em, 2em, 2em;
+    padding: 1em, 1em, 1em, 1em;
+}
